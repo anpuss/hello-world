@@ -1,2 +1,5 @@
 # hello-world
-set up first repo on GitHub
+
+My first repo on GitHub
+
+Good night. :moon:
